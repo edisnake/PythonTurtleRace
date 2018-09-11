@@ -19,7 +19,7 @@ Python 3.6 or greater
 ## Author
 
 Edwuin Gutierrez
-edwinguti86@yahoo.com
+edwinguti86@gmail.com
 
 
 ## License
